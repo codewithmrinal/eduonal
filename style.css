@@ -1,0 +1,97 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav li {
+    display: inline-block;
+    margin: 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+.hero {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.hero h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.hero a {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.subjects {
+    margin-bottom: 20px;
+}
+
+.subjects h3 {
+    margin-bottom: 10px;
+}
+
+.subjects ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.subjects li {
+    display: inline-block;
+    margin: 5px;
+}
+
+.subjects a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.testimonials {
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+}
+
+blockquote {
+    font-style: italic;
+    margin: 0;
+    padding:
